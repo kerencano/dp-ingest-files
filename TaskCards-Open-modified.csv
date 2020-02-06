@@ -1,4 +1,4 @@
-idTaskCardServiceNotification,PartNumber,SerialNumber,ServiceNotification,CreatedBy,CreatedDate,Finished,pdtr
-25878,622-7309-101,10FDW,105777647,ssilva,8/20/2019,0,ts
-25904,622-7209-005,42748L,105778378,kcano,8/21/2019,0,ts
-25951,622-6020-022,23RWG,105782776,ehull,8/21/2019,0,ts
+idTaskCardServiceNotification,PartNumber,SerialNumber,ServiceNotification,CreatedBy,CreatedDate,Finished
+25878,622-7309-101,10FDW,105777647,ssilva,8/20/2019,0
+25904,622-7209-005,42748L,105778378,kcano,8/21/2019,0
+25951,622-6020-022,23RWG,105782776,ehull,8/21/2019,0
