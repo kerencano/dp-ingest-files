@@ -1,2 +1,2 @@
-idTaskCardServiceNotification,PartNumber,SerialNumber,ServiceNotification,CreatedBy,CreatedDate,Finished,pdtr
-252505,622-7309-125,25FDW,105772525,ssilva,01/01/2020,0,ts
+idTaskCardServiceNotification,PartNumber,SerialNumber,ServiceNotification,CreatedBy,CreatedDate,Finished
+252505,622-7309-125,25FDW,105772525,ssilva,01/01/2020,0
